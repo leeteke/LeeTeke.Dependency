@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Leeteke.Dependency
+namespace LeeTeke.Dependency
 {
     //
     // 摘要:

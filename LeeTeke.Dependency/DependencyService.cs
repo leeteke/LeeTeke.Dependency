@@ -10,7 +10,7 @@ using System.Reflection;
 //园项目具体目录地址：https://github.com/xamarin/Xamarin.Forms/blob/5.0.0/Xamarin.Forms.Core/DependencyService.cs
 //源项目开源协议地址：https://github.com/xamarin/Xamarin.Forms/blob/5.0.0/LICENSE
 //
-namespace Leeteke.Dependency
+namespace LeeTeke.Dependency
 {
    
     public static class DependencyService
