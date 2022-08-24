@@ -2,9 +2,9 @@
 
 基于Xamarin.Forms.Dependency创作的的IOC
 
-#创作灵感#   
+#创作#   
 
-创作令该来源于 Xamarin.Forms.Dependency
+创作来源于 Xamarin.Forms.Dependency
 
 #原文地址#   
 
